@@ -1,7 +1,4 @@
 export const feeds = [
-  // Daring Fireball
-  'https://daringfireball.net/feeds/main',
-
-  // Appjeniksaan
-  'https://appjeniksaan.nl/feed.xml',
+  // The Age RSS
+  'https://www.theage.com.au/rss/feed.xml'
 ]
