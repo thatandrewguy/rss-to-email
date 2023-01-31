@@ -1,4 +1,4 @@
 export const feeds = [
-  // The Age RSS
+  // TheAgeRSS
   'https://www.theage.com.au/rss/feed.xml'
 ]
